@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": "U001",
+    "username": "admin",
+    "password": "123", 
+    "role": "Admin",
+    "full_name": "Quản trị viên",
+    "phone": "",
+    "email": ""
+  },
+  {
+    "user_id": "U002",
+    "username": "khach1",
+    "password": "123",
+    "role": "Customer",
+    "full_name": "Nguyễn Văn A",
+    "phone": "0901234567",
+    "email": "nva@gmail.com"
+  }
+]

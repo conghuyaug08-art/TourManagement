@@ -1,0 +1,11 @@
+[
+  {
+    "booking_id": "B001",
+    "tour_id": "T001",
+    "user_id": "U002",
+    "booking_date": "2024-11-20",
+    "service_type": "VIP",
+    "total_price": 3000000.0,
+    "status": "Confirmed"
+  }
+]

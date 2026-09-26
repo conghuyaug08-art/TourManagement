@@ -1,0 +1,16 @@
+[
+  {
+    "tour_id": "T001",
+    "name": "Khám phá Đà Lạt 3 Ngày 2 Đêm",
+    "start_date": "2024-12-10",
+    "base_price": 2500000.0,
+    "capacity": 20,
+    "booked": 0,
+    "destinations": ["Thác Datanla", "Đỉnh Langbiang", "Chợ đêm Đà Lạt"],
+    "itinerary": [
+      {"day": 1, "description": "Sáng khởi hành. Chiều tham quan Thác Datanla."},
+      {"day": 2, "description": "Sáng chinh phục Langbiang. Tối dạo chợ đêm."},
+      {"day": 3, "description": "Mua sắm đặc sản và về lại TP.HCM."}
+    ]
+  }
+]
